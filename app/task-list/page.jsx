@@ -39,7 +39,7 @@ export default function page() {
         <hr className="my-4 " />
           <div className="flex justify-between">
             <h3>Cantidad de tareas: {todosCount}</h3>
-            <h3>Tareas pendientes: {pendingTodosCount} </h3>
+            <h3>Tareas pendientes: {pendingTodosCount}</h3>
           </div>
           <hr className="my-4 " />
 
